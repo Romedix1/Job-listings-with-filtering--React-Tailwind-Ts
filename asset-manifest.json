@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Job-listings-with-filtering--React-Tailwind-Ts/static/css/main.c9033ae0.css",
+    "main.js": "/Job-listings-with-filtering--React-Tailwind-Ts/static/js/main.89c33b2a.js",
+    "index.html": "/Job-listings-with-filtering--React-Tailwind-Ts/index.html",
+    "main.c9033ae0.css.map": "/Job-listings-with-filtering--React-Tailwind-Ts/static/css/main.c9033ae0.css.map",
+    "main.89c33b2a.js.map": "/Job-listings-with-filtering--React-Tailwind-Ts/static/js/main.89c33b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9033ae0.css",
+    "static/js/main.89c33b2a.js"
+  ]
+}
